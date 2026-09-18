@@ -1,0 +1,24 @@
+JOHNATHAN DOE — SENIOR FULL STACK ENGINEER
+Email: john.dev@example.com | Phone: +1 (555) 234-5678 | San Francisco, CA
+Portfolio: https://johndoe.dev | GitHub: https://github.com/johndoe-dev
+
+SUMMARY:
+Results-driven Full Stack Engineer with 5+ years of experience engineering high-throughput distributed web systems, Next.js App Router applications, and PostgreSQL microservices.
+
+TECHNICAL SKILLS:
+- Languages: TypeScript, JavaScript, SQL, Python, Go, HTML5, CSS3
+- Frontend: Next.js 14/15, React, Tailwind CSS, Redux, State Machines
+- Backend: Node.js, Express, PostgreSQL, Prisma ORM, Redis, GraphQL
+- Infrastructure: Docker, AWS (ECS, S3, RDS), Kubernetes, GitHub Actions
+
+WORK EXPERIENCE:
+1. Senior Software Engineer — StreamFlow Media (2023 - Present)
+   - Architected frontend migration to Next.js App Router, accelerating Core Web Vitals by 42%.
+   - Maintained scalable Node.js microservices processing 3M+ requests daily with 99.98% uptime.
+
+2. Full Stack Developer — ByteCraft Labs (2021 - 2023)
+   - Developed real-time telemetry dashboards using React, WebSocket, and PostgreSQL.
+   - Reduced database query latency by 35% through index tuning and Redis caching.
+
+EDUCATION:
+- B.S. in Computer Science — UC Berkeley (2017 - 2021)
